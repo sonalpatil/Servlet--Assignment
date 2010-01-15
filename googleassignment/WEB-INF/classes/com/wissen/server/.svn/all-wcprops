@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/googleassignment/WEB-INF/classes/com/wissen/server
+END
+ValidateServlet.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/googleassignment/WEB-INF/classes/com/wissen/server/ValidateServlet.class
+END
+DeleteServlet.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/googleassignment/WEB-INF/classes/com/wissen/server/DeleteServlet.class
+END
+GreetingServiceImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/googleassignment/WEB-INF/classes/com/wissen/server/GreetingServiceImpl.class
+END
+UpdateServlet.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/googleassignment/WEB-INF/classes/com/wissen/server/UpdateServlet.class
+END
+SignUpServlet.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/googleassignment/WEB-INF/classes/com/wissen/server/SignUpServlet.class
+END

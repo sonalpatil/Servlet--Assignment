@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE web-app
+    PUBLIC "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+    "http://java.sun.com/dtd/web-app_2_3.dtd">
+
+<web-app>
+  
+  <!-- Servlets -->
+  <servlet>
+    <servlet-name>greetServlet</servlet-name>
+    <servlet-class>com.wissen.server.GreetingServiceImpl</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+    <servlet-name>greetServlet</servlet-name>
+    <url-pattern>/googleassignment/greet</url-pattern>
+  </servlet-mapping>
+  
+  
+  <servlet>
+    <servlet-name>SignUp</servlet-name>
+    <servlet-class>SignUpServlet</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+    <servlet-name>SignUp</servlet-name>
+    <url-pattern>/signup</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+    <servlet-name>Validate</servlet-name>
+    <servlet-class>ValidateServlet</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+    <servlet-name>Validate</servlet-name>
+    <url-pattern>/validate</url-pattern>
+  </servlet-mapping>
+
+<servlet>
+    <servlet-name>Delete</servlet-name>
+    <servlet-class>DeleteServlet</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+    <servlet-name>Delete</servlet-name>
+    <url-pattern>/delete</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+    <servlet-name>Update</servlet-name>
+    <servlet-class>UpdateServlet</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+    <servlet-name>Update</servlet-name>
+    <url-pattern>/update</url-pattern>
+  </servlet-mapping>
+  <!-- Default page to serve -->
+  <welcome-file-list>
+    <welcome-file>GoogleAssignment.html</welcome-file>
+  </welcome-file-list>
+
+</web-app>
