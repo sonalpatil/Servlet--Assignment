@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/doc/com/wissen/server
+END
+ValidateServlet.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/doc/com/wissen/server/ValidateServlet.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/doc/com/wissen/server/package-frame.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/doc/com/wissen/server/package-use.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/doc/com/wissen/server/package-summary.html
+END
+DeleteServlet.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/doc/com/wissen/server/DeleteServlet.html
+END
+GreetingServiceImpl.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/doc/com/wissen/server/GreetingServiceImpl.html
+END
+UpdateServlet.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/doc/com/wissen/server/UpdateServlet.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/doc/com/wissen/server/package-tree.html
+END
+SignUpServlet.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/doc/com/wissen/server/SignUpServlet.html
+END

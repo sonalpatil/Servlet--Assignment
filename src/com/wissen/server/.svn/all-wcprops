@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/src/com/wissen/server
+END
+DeleteServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/src/com/wissen/server/DeleteServlet.java
+END
+GreetingServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/src/com/wissen/server/GreetingServiceImpl.java
+END
+UpdateServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/src/com/wissen/server/UpdateServlet.java
+END
+SignUpServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/src/com/wissen/server/SignUpServlet.java
+END
+ValidateServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/src/com/wissen/server/ValidateServlet.java
+END
