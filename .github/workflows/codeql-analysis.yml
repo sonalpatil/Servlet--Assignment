@@ -5,7 +5,9 @@
 # 
 
 on
-  Run:
+  echo:"Run, Build Application using script"
+    #   ./location_of_script_within_repo/buildscript.sh
+
     branches: [ "master" ]
   pull_request:
     # The branches below must be a subset of the branches above
