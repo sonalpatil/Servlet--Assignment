@@ -5,7 +5,7 @@
 # 
 
 on
-  echo:"Run, Build Application using script"
+  # echo:"Run, Application using script"
     #   ./location_of_script_within_repo/buildscript.sh
 
     branches: [ "master" ]
